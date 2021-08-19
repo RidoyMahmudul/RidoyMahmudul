@@ -24,13 +24,10 @@
 
 
  &emsp;
+  
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RidoyMahmudul&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RidoyMahmudul&count_private=true&theme=tokyonight&showicons=true)]()
 
-<a href="https://github.com/RidoyMahmudul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidoyMahmudul&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RidoyMahmudul&show_icons=true&theme=light&line_height=27" alt="Mahmudul's github stats"/>
-</a>
 
 
 
