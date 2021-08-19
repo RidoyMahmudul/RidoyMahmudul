@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=RidoyMahmudul&color=blue)
 <h1 align='center'>Hey 👋, This is Mahmudul Islam Ridoy</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
@@ -6,7 +6,7 @@
 <p align='center'>
   I'm studying computer science at State University of Bangladesh. I’m a front-end web developer specializing in WordPress. I have skills in Html,PHP, JavaScript, WordPress Theme and Plugin Development.
  I am a tech  and psychology lover. Always love to learn about new things in the tech world . I am learning new skills or doing exercise, or listen to people around me about their problems because spreading happiness is my mission apart from other things.
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkalok" alt="darkalok" /> </p>
+
 
 ### 😉 About
 - 🌱 I’m currently learning Php, Web Developing 
